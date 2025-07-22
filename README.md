@@ -16,7 +16,7 @@ Este projeto em C++ implementa um sistema automatizado de agendamento de avalia�
 
 - Saída formatada conforme exigido: HH:MM Imóvel ID.
 
-  Estrutura Modular: (O projeto é dividido em múltiplos arquivos):
+Estrutura Modular: (O projeto é dividido em múltiplos arquivos):
 
 - main.cpp: entrada e controle geral.
 
